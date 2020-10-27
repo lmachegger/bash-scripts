@@ -1,0 +1,2 @@
+#!/bin/bash
+ip addr show enp0s31f6 | awk -F"[ ',]+" '/inet /{print $3}'
