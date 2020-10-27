@@ -1,5 +1,5 @@
 # bash-scripts
 
 ## addr
-echos out <ip-addr>/<mask>
+echos out `<ip-addr>/<mask>`
 
